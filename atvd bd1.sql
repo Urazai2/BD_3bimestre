@@ -1,3 +1,5 @@
+/*PROFESSOR EU ESQUECI DE MANDAR A LISTA 2, MAS ELA TA AQUI NO MEU REPOSITORIO*/
+
 /*1*/
 select orders.order_id, orders.order_date, customers.first_name, customers.last_name, customers.email
 from customers
